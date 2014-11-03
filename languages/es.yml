@@ -8,5 +8,5 @@ next: Siguiente
 comment: Comentarios
 archive_a: Archivo
 archive_b: "Archivo: %s"
-page: Página %d
+page: "Página %d"
 recent_posts: Entradas Recientes
