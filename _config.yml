@@ -1,41 +1,41 @@
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  公告: /archives
 
 widgets:
 - search
 
 cover:
   enable: true
-  url: http://ww1.sinaimg.cn/large/6cea169fjw1edgyzma1xcj21kw16ohba.jpg
-   
+  url: http://yfdocument.qiniudn.com/pattern.png
+
 excerpt_link: Read More
 
 full_format: 'ddd, MMM D YYYY, h:mm:ss a'
 
+growingio_analytics: 984266f00491a1b4
+
 addthis:
   enable: true
-  pubid:
-  facebook:
-  twitter:
-  google: true
-  pinterest:
-
+  #pubid:
+  #facebook:
+  #twitter:
+  #google: true
+  #pinterest:
 fancybox: true
 
-google_analytics: UA-368771XX-X
 rss:
 
 comment_provider: duoshuo
 
+
 # Duoshuo comment
 duoshuo:
-  short_name: your_id
+  short_name: MR.Fan
 
 social:
-  github: https://github.com/your_id
-  weibo: http://weibo.com/your_id
-  google_plus: 
+  github: https://github.com/yfsoftcn
+  #weibo: http://weibo.com/your_name
 
 auto_change:
   enable: true
